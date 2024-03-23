@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **some interesting projects**
 
-- 📫 How to reach me **antonyan.anna1999@yandex.ru**
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-antonyan_anna-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/antonyan_anna
+) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:antonyan.anna1999@yandex.ru)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
